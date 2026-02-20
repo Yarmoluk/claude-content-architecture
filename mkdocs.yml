@@ -87,7 +87,17 @@ nav:
   - Home: index.md
   - Course Description: course-description.md
   - Chapters:
-    - chapters/index.md
+    - Overview: chapters/index.md
+    - "Ch 1: Knowledge Graph Foundations": chapters/ch01.md
+    - "Ch 2: Modular Content Architecture": chapters/ch02.md
+    - "Ch 3: AI-Augmented Content Generation": chapters/ch03.md
+    - "Ch 4: Multi-Audience Adaptation": chapters/ch04.md
+    - "Ch 5: Automated Quality Assurance": chapters/ch05.md
+    - "Ch 6: Content Drift Detection": chapters/ch06.md
+    - "Ch 7: Metrics and Learner Outcomes": chapters/ch07.md
+    - "Ch 8: Scaling Content Operations": chapters/ch08.md
+    - "Ch 9: Version Control for Training Content": chapters/ch09.md
+    - "Ch 10: API and SDK Documentation Systems": chapters/ch10.md
 
 extra:
   social:
